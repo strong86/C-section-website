@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - My Website</title>
-    <link rel="stylesheet" href="styles/style.css">
-    <title>Scheduled childbirth: cesarean section</title>
+        <meta charset="UTF-8">
+        <title>Scheduled childbirth: cesarean section</title>
+        <link rel="stylesheet" href="styles/style.css">
+      
 
 </head>
+
 <body>
     <header>
         <h1>Welcome to My Website</h1>
@@ -17,13 +18,17 @@
                 <li><a href="about.html">About</a></li>
                 <li><a href="hobbies.html">Get Brochure</a></li>
                 <li><a href="contact.html">Contact Us</a></li>
+                <img src= "C:\Users\simom\OneDrive\Documents\Cesarian images.jpg">
+                
             </ul>
         </nav>
     </header>
     <main>
         <section>
             <h2>Introduction</h2>
-            <p>This is the home page of my website. </p>
+            <p> A cesarean section is a planned birth which involves operating on the mother in order to give birth to the baby. 
+               It is a particular method of birth in the sense that in most cases it is practical because the mother cannot give birth by whispering.</p>
+              <blockquote>&ldquo; Every cesarian is different like every baby is unique.&rdquo;</blockquote>
         </section>
     </main>
     <footer>
